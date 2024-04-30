@@ -1,29 +1,44 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "role": "Analyst",
+    "organisation": "Accenture (Ameren)",
+    "startDate": "Oct, 2022",
+    "endDate": "Jan, 2024",
+    "experiences": ["Created Dynamic single page application without full page reload", "Application offered smooth, uninterrupted user experience"],
+    "imageSrc": "history/accenture.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Data Analyst",
+    "organisation": "Emphasis Tech",
+    "startDate": "April, 2022",
+    "endDate": "June, 2022",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Gathering requirements, filtering, created flowcharts in Agile", 
+      "Developed website with reusable components and demo to clients"],
+    "imageSrc": "history/e2.png"
+  },
+  {
+    "role": "Business Intelligence",
+    "organisation": "DePaul University",
+    "startDate": "July, 2021",
+    "endDate": "March, 2022",
+    "experiences": [
+      "Accomplished a Movie application",
+      "Applying Advanced React concepts to app",
+      "Debug and perform testing"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/depaul-university-logo.png"
+  },
+  {
+    "role": "Business Analyst and Operations",
+    "organisation": "Global Impex USA",
+    "startDate": "March, 2021",
+    "endDate": "June, 2021",
+    "experiences": [
+      "Managed E-Commerce platform - User side for navigation, state management and bootstrap UI",
+      "Admin side for tracking, implementing all states, reusable components",
+      "Created analytics to improve sales and website"
+    ],
+    "imageSrc": "history/global_imp.png"
   }
 ]

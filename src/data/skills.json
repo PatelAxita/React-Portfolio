@@ -12,19 +12,35 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "Jenkins",
+    "imageSrc": "skills/jenkins.png"
+  },
+  {
+    "title": "Altassian Jira",
+    "imageSrc": "skills/jira.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
   },
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "NeoLoad",
+    "imageSrc": "skills/neoload.png"
+  },
+  {
+    "title": "Confluence",
+    "imageSrc": "skills/confluence.png"
   }
 ]

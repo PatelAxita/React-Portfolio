@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Personal Projects ",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Using React to create Movie, E-Commerce, and Budgeting applications.",
+    "skills": ["React", "HTML", "CSS", "Javascript", "Bootstrap"],
+    "demo": "",
+    "source": "https://github.com/PatelAxita"
   },
   {
-    "title": "Project B",
+    "title": "User Management System",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project where i build a user management system from scratch.",
+    "skills": ["React", "HTML", "CSS", "Javascript", "Bootstrap"],
+    "demo": "",
+    "source": "https://github.com/PatelAxita"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Phones for Us",
+    "imageSrc": "projects/phones for us.png",
+    "description": "This is a project made to built a mobile phone website using Agile in JIRA.",
+    "skills": ["Priject Management", "Agile methodologies", "Visio"],
+    "demo": "https://vrnvk8.wixsite.com/website",
+    "source": "https://www.wix.com/"
   }
 ]
