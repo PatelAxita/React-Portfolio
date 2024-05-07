@@ -1,7 +1,7 @@
 # React + Vite
 
 I added things in this template with the use of FontAwesome.
-Deployment was done on the Vercel app
+Deployment was done on the Vercel app.
 It provides a minimal setup to get React working in Vite with HMR and some ESLint rules[1].
 
 Currently, two official plugins are available:
