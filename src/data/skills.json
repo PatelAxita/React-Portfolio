@@ -1,46 +1,46 @@
 [
   {
     "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "/assets/skills/html.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "/assets/skills/css.png"
   },
   {
     "title": "React",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "/assets/skills/react.png"
   },
   {
     "title": "GitHub",
-    "imageSrc": "skills/github.png"
+    "imageSrc": "/assets/skills/github.png"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "imageSrc": "/assets/skills/javascript.png"
   },
   {
     "title": "Jenkins",
-    "imageSrc": "skills/jenkins.png"
+    "imageSrc": "/assets/skills/jenkins.png"
   },
   {
     "title": "Altassian Jira",
-    "imageSrc": "skills/jira.png"
+    "imageSrc": "/assets/skills/jira.png"
   },
   {
     "title": "Postman",
-    "imageSrc": "skills/postman.png"
+    "imageSrc": "/assets/skills/postman.png"
   },
   {
     "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "/assets/skills/figma.png"
   },
   {
     "title": "NeoLoad",
-    "imageSrc": "skills/neoload.png"
+    "imageSrc": "/assets/skills/neoload.png"
   },
   {
     "title": "Confluence",
-    "imageSrc": "skills/confluence.png"
+    "imageSrc": "/assets/skills/confluence.png"
   }
 ]

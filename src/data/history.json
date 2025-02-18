@@ -5,7 +5,7 @@
     "startDate": "Oct, 2022",
     "endDate": "Jan, 2024",
     "experiences": ["Created Dynamic single page application without full page reload", "Application offered smooth, uninterrupted user experience"],
-    "imageSrc": "history/accenture.png"
+    "imageSrc": "/assets/history/accenture.png"
   },
   {
     "role": "Data Analyst",
@@ -15,7 +15,7 @@
     "experiences": [
       "Gathering requirements, filtering, created flowcharts in Agile", 
       "Developed website with reusable components and demo to clients"],
-    "imageSrc": "history/e2.png"
+    "imageSrc": "/assets/history/e2.png"
   },
   {
     "role": "Business Intelligence",
@@ -27,7 +27,7 @@
       "Applying Advanced React concepts to app",
       "Debug and perform testing"
     ],
-    "imageSrc": "history/depaul-university-logo.png"
+    "imageSrc": "/assets/history/depaul-university-logo.png"
   },
   {
     "role": "Business Analyst and Operations",
@@ -39,6 +39,6 @@
       "Admin side for tracking, implementing all states, reusable components",
       "Created analytics to improve sales and website"
     ],
-    "imageSrc": "history/global_imp.png"
+    "imageSrc": "/assets/history/global_imp.png"
   }
 ]
